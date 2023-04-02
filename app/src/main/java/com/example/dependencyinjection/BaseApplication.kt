@@ -7,8 +7,6 @@ import javax.inject.Inject
 @HiltAndroidApp
 class BaseApplication : Application() {
 
-    @Inject
-    lateinit var userRepository: UserRepository
 
     override fun onCreate() {
         super.onCreate()
