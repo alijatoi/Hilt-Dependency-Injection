@@ -19,7 +19,7 @@ class LoginFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
 
-        userRepository.saveUser("Hi","1111")
+        userRepository.saveUser("username@gmail.com","1111")
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_login, container, false)
     }
