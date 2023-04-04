@@ -1,3 +1,3 @@
 # Hilt-Dependency-Injection
-### Programming Language Used : Kotlin
+### Language Used : Kotlin
 ### Dependency Injection  : Hilt 
